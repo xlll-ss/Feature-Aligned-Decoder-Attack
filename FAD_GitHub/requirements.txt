@@ -1,7 +1,0 @@
-torch
-torchvision
-numpy
-Pillow
-scikit-image
-matplotlib
-lpips>=0.1.4
